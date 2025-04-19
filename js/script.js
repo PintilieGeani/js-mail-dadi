@@ -10,8 +10,7 @@
 
 // Raccolta dati:
 const mail = ["mario@gmail.com", "giorgio@gmail.com", "valerio@gmail.com", "federica@gmail.com", "gregorio@gmail.com", "geani@gmail.com", "matteo@gmail.com", "rossella@gmail.com", "elisa@gmail.com", "sara@gmail.com"]
-// const mailUtente = prompt("Inserisci la tua mail")
-const mailUtente = "mario@gmail.com"
+const mailUtente = prompt("Inserisci la tua mail")
 let presente = false
 
 // Risoluzione Logica
