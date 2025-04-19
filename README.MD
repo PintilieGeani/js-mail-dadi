@@ -15,17 +15,21 @@ Raccolta dati:
 Risoluzione logica:
 - Creare ciclo for che scorre il nostro array.
 - Impostare condizione:
+func main ()
 - if(mailUtente === elemento){
     presente = true
     break
 }
+end func
 
 Output: 
+func main()
 if(presente = true){
     console.log(messaggio di successo)
 }else{
     console.log(messaggio di insuccesso)
 }
+end func
 <br>
 <br>
 <br>
