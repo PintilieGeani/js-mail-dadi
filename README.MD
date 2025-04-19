@@ -28,8 +28,7 @@ if(presente = true){
     console.log(messaggio di successo)
 }else{
     console.log(messaggio di insuccesso)
-}
-end func
+}end func
 <br>
 <br>
 <br>
