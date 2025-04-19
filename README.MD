@@ -26,4 +26,28 @@ if(presente = true){
 }else{
     console.log(messaggio di insuccesso)
 }
+<br>
+<br>
+<br>
+Gioco dei dadi
+Generare un numero random da 1 a 6, sia per il giocatore sia per il computer.
+Stabilire il vincitore, in base a chi fa il punteggio più alto.
 
+Risoluzione:
+
+Racolta dati:
+- Generare un numero casuale da 1 a 6 e salvare nella costante "giocatore"
+- Generare un numero casuale da 1 a 6 e salvare nella costante "computer"
+- creare una costante chiamata "vicitore"
+
+Risoluzione logica:
+if(giocatore > computer){
+    vincitore = "Vince il giocatore"
+}if(gicatore < computer){
+    vincitore = "Vince il computer"
+}if{
+    vincitore = "Pareggio"
+}
+
+Output:
+console.log(vincitore)
